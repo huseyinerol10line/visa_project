@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\ExploreCaliforniaa\ExploreCaliforniaa\obj\Debug\netcoreapp2.0\ExploreCaliforniaa.csprojResolveAssemblyReference.cache
+C:\Users\dell\source\repos\ExploreCaliforniaa\ExploreCaliforniaa\obj\Debug\netcoreapp2.0\ExploreCaliforniaa.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ExploreCaliforniaa\ExploreCaliforniaa\obj\Debug\netcoreapp2.0\ExploreCaliforniaa.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\ExploreCaliforniaa\ExploreCaliforniaa\obj\Debug\netcoreapp2.0\ExploreCaliforniaa.AssemblyInfo.cs
+C:\Users\dell\source\repos\ExploreCaliforniaa\ExploreCaliforniaa\bin\Debug\netcoreapp2.0\ExploreCaliforniaa.deps.json
+C:\Users\dell\source\repos\ExploreCaliforniaa\ExploreCaliforniaa\bin\Debug\netcoreapp2.0\ExploreCaliforniaa.runtimeconfig.json
+C:\Users\dell\source\repos\ExploreCaliforniaa\ExploreCaliforniaa\bin\Debug\netcoreapp2.0\ExploreCaliforniaa.runtimeconfig.dev.json
+C:\Users\dell\source\repos\ExploreCaliforniaa\ExploreCaliforniaa\bin\Debug\netcoreapp2.0\ExploreCaliforniaa.dll
+C:\Users\dell\source\repos\ExploreCaliforniaa\ExploreCaliforniaa\bin\Debug\netcoreapp2.0\ExploreCaliforniaa.pdb
+C:\Users\dell\source\repos\ExploreCaliforniaa\ExploreCaliforniaa\obj\Debug\netcoreapp2.0\ExploreCaliforniaa.dll
+C:\Users\dell\source\repos\ExploreCaliforniaa\ExploreCaliforniaa\obj\Debug\netcoreapp2.0\ExploreCaliforniaa.pdb

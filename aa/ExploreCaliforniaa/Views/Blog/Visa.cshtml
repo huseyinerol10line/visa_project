@@ -1,0 +1,28 @@
+﻿@addTagHelper "*, Microsoft.AspNetCore.Mvc.TagHelpers"
+@model ExploreCaliforniaa.Models.Visa
+@{  
+    Layout = "_Layout";
+}
+
+<h1>Create Blog Post</h1>
+
+<fieldset>
+
+    <form asp-action="Visa" asp-controller="Blog">
+
+        <div asp-validation-summary="ModelOnly" class="input-validation-error"></div>
+ 
+        <p>
+            <label asp-for="name"></label>
+            <textarea asp-for="name" class="form-control" placeholder="Blog post content"></textarea>
+            <span asp-validation-for="name"></span>
+        </p> 
+        <p>
+            <button type="submit">Create Post</button>
+        </p>
+
+       
+
+    </form>
+
+</fieldset>
